@@ -1,0 +1,49 @@
+img {
+    width: 500px;
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
+    display:block;
+    margin:auto;
+    
+}
+
+* {
+    color: whitesmoke 
+}
+
+h1,
+h3,
+h4{
+    color:ghostwhite
+}
+
+h1{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    border:10px solid red;
+}
+
+.box{
+    margin:25px;
+    border:10px solid red;
+    padding:25px;
+    
+
+}
+
+span{
+    background: white;
+    border: 1px solid black;
+    color:black;
+}
+
+h3{
+    border:5px solid purple;
+}
+
+.link {
+    border:3px solid blue;
+}
+
+.desc {
+    border:10px red;
+}
